@@ -1,5 +1,4 @@
 ﻿<a href="https://www.instagram.com/ngarambe_benjamin/">
-  <img src="<a href="https://www.instagram.com/ngarambe_benjamin/">
   <img src="https://i.pinimg.com/736x/0e/3b/68/0e3b6893317b89b0b6ab61302d992cfb.jpg" alt="Discover Rwanda" >
 </a>
 
